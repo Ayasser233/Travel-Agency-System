@@ -1,0 +1,20 @@
+F:\projects\Travel Agency\FirstTrial\FirstTrial\Debug\FirstTrial.vcxprojAssemblyReference.cache
+F:\projects\Travel Agency\FirstTrial\Debug\MyForm.h
+F:\projects\Travel Agency\FirstTrial\FirstTrial\Debug\FirstTrial.MyForm.resources
+F:\projects\Travel Agency\FirstTrial\FirstTrial\Debug\FirstTrial.vcxproj.GenerateResource.cache
+D:\FCIS\First Year\Second Smester\Structure Programming\Project\Trials\FirstTrial 01\Debug\MyForm.h
+D:\FCIS\First Year\Second Smester\Structure Programming\Project\Trials\FirstTrial 01\FirstTrial\Debug\FirstTrial.vcxprojAssemblyReference.cache
+D:\FCIS\First Year\Second Smester\Structure Programming\Project\Trials\FirstTrial 01\FirstTrial\Debug\FirstTrial.MyForm.resources
+D:\FCIS\First Year\Second Smester\Structure Programming\Project\Trials\FirstTrial 01\FirstTrial\Debug\FirstTrial.vcxproj.GenerateResource.cache
+D:\FCIS\First Year\Second Smester\Structure Programming\Project\Trials\FirstTrial (Copy)\Debug\MyForm.h
+D:\FCIS\First Year\Second Smester\Structure Programming\Project\Trials\FirstTrial (Copy)\FirstTrial\Debug\FirstTrial.vcxprojAssemblyReference.cache
+D:\FCIS\First Year\Second Smester\Structure Programming\Project\Trials\FirstTrial (Copy)\FirstTrial\Debug\FirstTrial.MyForm.resources
+D:\FCIS\First Year\Second Smester\Structure Programming\Project\Trials\FirstTrial (Copy)\FirstTrial\Debug\FirstTrial.vcxproj.GenerateResource.cache
+D:\FCIS\First Year\Second Smester\Structure Programming\Project\Trials\Third Trial\Debug\MyForm.h
+D:\FCIS\First Year\Second Smester\Structure Programming\Project\Trials\Third Trial\FirstTrial\Debug\FirstTrial.vcxprojAssemblyReference.cache
+D:\FCIS\First Year\Second Smester\Structure Programming\Project\Trials\Third Trial\FirstTrial\Debug\FirstTrial.MyForm.resources
+D:\FCIS\First Year\Second Smester\Structure Programming\Project\Trials\Third Trial\FirstTrial\Debug\FirstTrial.vcxproj.GenerateResource.cache
+D:\FCIS\First Year\Second Smester\Structure Programming\Project\Trials\Third Trial - Copy\Debug\MyForm.h
+D:\FCIS\First Year\Second Smester\Structure Programming\Project\Trials\Third Trial - Copy\FirstTrial\Debug\FirstTrial.vcxprojAssemblyReference.cache
+D:\FCIS\First Year\Second Smester\Structure Programming\Project\Trials\Third Trial - Copy\FirstTrial\Debug\FirstTrial.MyForm.resources
+D:\FCIS\First Year\Second Smester\Structure Programming\Project\Trials\Third Trial - Copy\FirstTrial\Debug\FirstTrial.vcxproj.GenerateResource.cache
